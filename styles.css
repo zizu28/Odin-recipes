@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(155, 105, 75);
+}
+
+.recipes {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.menu {
+    text-align: center;
+}
+
+.dish {
+    font-size: large;
+    font-weight: bold;
+}
